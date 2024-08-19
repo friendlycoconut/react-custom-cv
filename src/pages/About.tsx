@@ -46,7 +46,7 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-sm md:text-lg mt-5">
           <code>
-            Hi! This Single-page site was created with the only purpose -
+            Hi! This Single-page application was created with the only purpose -
             to simplify the automatic generation of a CV. 
           </code>
           <br />
