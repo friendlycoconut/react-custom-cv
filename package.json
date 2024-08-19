@@ -1,7 +1,6 @@
 {
-  "name": "kizou",
+  "name": "test",
   "version": "0.1.0",
-  "homepage": "http://kizou.org",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.5.0",
